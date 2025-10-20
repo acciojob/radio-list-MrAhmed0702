@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-input[type="radio"]:nth-of-type(even) + label {
+.input:nth-child(even) {
 	color: red;
 }
